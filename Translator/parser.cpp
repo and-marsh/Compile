@@ -2,8 +2,6 @@
 #include "myexeptios.h"
 
 #include <iostream>
-#include <locale>
-
 
 Parser::Parser()
 {
